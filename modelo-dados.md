@@ -226,3 +226,7 @@ esse relacionamento de muitos para muitos.
 
 Uma tentativa de acesso pode estar vinculada a um aluno
 ou não ter aluno vinculado, quando não existe cadastro.
+
+## 11. Visão geral do banco
+
+![Relacionamentos entre as nove tabelas](relacionamento-tabelas.png)
